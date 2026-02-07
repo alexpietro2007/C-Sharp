@@ -1,0 +1,71 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "ncc",
+            "type": "shell",
+            "command": "dotnet new console -n \"${input:folderName}\" --use-program-main && (echo ^<Solution^> & echo   ^<Project Path=\"${input:folderName}\\${input:folderName}.csproj\" /^> & echo ^</Solution^>) > \"${input:slnName}.slnx\"",
+            "windows": {
+                "options": {
+                    "shell": {
+                        "executable": "cmd.exe",
+                        "args": [
+                            "/d",
+                            "/c"
+                        ]
+                    }
+                }
+            },
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+            }
+        },
+        {
+            "label": "Ver e Alterar SDK",
+            "type": "shell",
+            "command": "dotnet --list-sdks && echo. && set /p v=\"Digite a versao desejada (ex: 8.0.100): \" && call dotnet new globaljson --sdk-version %v% --force",
+            "windows": {
+                "options": {
+                    "shell": {
+                        "executable": "cmd.exe",
+                        "args": [
+                            "/d",
+                            "/c"
+                        ]
+                    }
+                }
+            },
+            "problemMatcher": [],
+            "presentation": {
+                "reveal": "always",
+                "focus": true,
+                "panel": "new"
+            },
+            "group": "build"
+        }
+    ],
+    "inputs": [
+        {
+            "id": "folderName",
+            "type": "promptString",
+            "description": "Nome da Pasta (C#)"
+        },
+        {
+            "id": "slnName",
+            "type": "promptString",
+            "description": "Nome do arquivo .slnx"
+        },
+        {
+            "id": "dotnetVersion",
+            "type": "pickString",
+            "description": "Escolha a versão do .NET SDK",
+            "options": [
+                "8.0.100",
+                "7.0.400",
+                "6.0.400"
+            ],
+            "default": "10.0.100"
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+d:\Alex\Curso\C# Com IA\primeiraCriacaoVSCode\bin\Release\net10.0\publish\primeiraCriacaoVSCode.exe
+d:\Alex\Curso\C# Com IA\primeiraCriacaoVSCode\bin\Release\net10.0\publish\primeiraCriacaoVSCode.dll
+d:\Alex\Curso\C# Com IA\primeiraCriacaoVSCode\bin\Release\net10.0\publish\primeiraCriacaoVSCode.deps.json
+d:\Alex\Curso\C# Com IA\primeiraCriacaoVSCode\bin\Release\net10.0\publish\primeiraCriacaoVSCode.runtimeconfig.json
+d:\Alex\Curso\C# Com IA\primeiraCriacaoVSCode\bin\Release\net10.0\publish\primeiraCriacaoVSCode.pdb

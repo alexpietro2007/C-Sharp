@@ -1,0 +1,15 @@
+d:\Alex\Curso\C# Com IA\primeiraCriacaoVSCode\bin\Release\net10.0\primeiraCriacaoVSCode.exe
+d:\Alex\Curso\C# Com IA\primeiraCriacaoVSCode\bin\Release\net10.0\primeiraCriacaoVSCode.deps.json
+d:\Alex\Curso\C# Com IA\primeiraCriacaoVSCode\bin\Release\net10.0\primeiraCriacaoVSCode.runtimeconfig.json
+d:\Alex\Curso\C# Com IA\primeiraCriacaoVSCode\bin\Release\net10.0\primeiraCriacaoVSCode.dll
+d:\Alex\Curso\C# Com IA\primeiraCriacaoVSCode\bin\Release\net10.0\primeiraCriacaoVSCode.pdb
+d:\Alex\Curso\C# Com IA\primeiraCriacaoVSCode\obj\Release\net10.0\primeiraCriacaoVSCode.GeneratedMSBuildEditorConfig.editorconfig
+d:\Alex\Curso\C# Com IA\primeiraCriacaoVSCode\obj\Release\net10.0\primeiraCriacaoVSCode.AssemblyInfoInputs.cache
+d:\Alex\Curso\C# Com IA\primeiraCriacaoVSCode\obj\Release\net10.0\primeiraCriacaoVSCode.AssemblyInfo.cs
+d:\Alex\Curso\C# Com IA\primeiraCriacaoVSCode\obj\Release\net10.0\primeiraCriacaoVSCode.csproj.CoreCompileInputs.cache
+d:\Alex\Curso\C# Com IA\primeiraCriacaoVSCode\obj\Release\net10.0\primeiraCriacaoVSCode.sourcelink.json
+d:\Alex\Curso\C# Com IA\primeiraCriacaoVSCode\obj\Release\net10.0\primeiraCriacaoVSCode.dll
+d:\Alex\Curso\C# Com IA\primeiraCriacaoVSCode\obj\Release\net10.0\refint\primeiraCriacaoVSCode.dll
+d:\Alex\Curso\C# Com IA\primeiraCriacaoVSCode\obj\Release\net10.0\primeiraCriacaoVSCode.pdb
+d:\Alex\Curso\C# Com IA\primeiraCriacaoVSCode\obj\Release\net10.0\primeiraCriacaoVSCode.genruntimeconfig.cache
+d:\Alex\Curso\C# Com IA\primeiraCriacaoVSCode\obj\Release\net10.0\ref\primeiraCriacaoVSCode.dll
