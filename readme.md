@@ -30,4 +30,4 @@ Repositório dedicado ao estudo de C# integrado com inteligência artificial e f
 </div>
 
 > [!IMPORTANT]
-> 🔑 **Senha para extração:** `eu gosto de c#`
+> 🔑 **Senha para extração:** `eugostodecsharp`
