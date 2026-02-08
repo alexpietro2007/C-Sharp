@@ -1,0 +1,15 @@
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TiposDeDados3\bin\Debug\net10.0\TiposDeDados3.exe
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TiposDeDados3\bin\Debug\net10.0\TiposDeDados3.deps.json
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TiposDeDados3\bin\Debug\net10.0\TiposDeDados3.runtimeconfig.json
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TiposDeDados3\bin\Debug\net10.0\TiposDeDados3.dll
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TiposDeDados3\bin\Debug\net10.0\TiposDeDados3.pdb
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TiposDeDados3\obj\Debug\net10.0\TiposDeDados3.GeneratedMSBuildEditorConfig.editorconfig
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TiposDeDados3\obj\Debug\net10.0\TiposDeDados3.AssemblyInfoInputs.cache
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TiposDeDados3\obj\Debug\net10.0\TiposDeDados3.AssemblyInfo.cs
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TiposDeDados3\obj\Debug\net10.0\TiposDeDados3.csproj.CoreCompileInputs.cache
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TiposDeDados3\obj\Debug\net10.0\TiposDeDados3.sourcelink.json
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TiposDeDados3\obj\Debug\net10.0\TiposDeDados3.dll
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TiposDeDados3\obj\Debug\net10.0\refint\TiposDeDados3.dll
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TiposDeDados3\obj\Debug\net10.0\TiposDeDados3.pdb
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TiposDeDados3\obj\Debug\net10.0\TiposDeDados3.genruntimeconfig.cache
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TiposDeDados3\obj\Debug\net10.0\ref\TiposDeDados3.dll
