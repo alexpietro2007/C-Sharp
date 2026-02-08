@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Alex\\Curso\\CSharp Com IA\\Fundamentos1\\TipoDeDados2\\TipoDeDados2.csproj",
-      "projectName": "TipoDeDados2",
-      "projectPath": "D:\\Alex\\Curso\\CSharp Com IA\\Fundamentos1\\TipoDeDados2\\TipoDeDados2.csproj",
+      "projectUniqueName": "D:\\Alex\\Curso\\CSharp Com IA\\Fundamentos1\\TiposDeDados2\\TiposDeDados2.csproj",
+      "projectName": "TiposDeDados2",
+      "projectPath": "D:\\Alex\\Curso\\CSharp Com IA\\Fundamentos1\\TiposDeDados2\\TiposDeDados2.csproj",
       "packagesPath": "C:\\Users\\suuhs\\.nuget\\packages\\",
-      "outputPath": "D:\\Alex\\Curso\\CSharp Com IA\\Fundamentos1\\TipoDeDados2\\obj\\",
+      "outputPath": "D:\\Alex\\Curso\\CSharp Com IA\\Fundamentos1\\TiposDeDados2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
