@@ -4,7 +4,7 @@ Repositório dedicado ao estudo de C# integrado com inteligência artificial e f
 
 ---
 
-### 📂 Estrutura do Projeto
+#### 📂 Estrutura do Projeto
 
 ```
 ├── 📁 Aula1
@@ -40,11 +40,11 @@ Repositório dedicado ao estudo de C# integrado com inteligência artificial e f
 │   └── 📄 CSFundametos1.slnx
 └── 📝 readme.md
 ```
-### 📥 Materiais de Suporte (Drive)
+#### 📥 Materiais de Suporte (Drive)
 
 <div align="center">
   <a href="https://1drv.ms/f/c/2cd73bb381f2b5b7/IgDpfJbxFkf1T42x-_RGAaUxAXA6PGIoBln5e-SEuHWQgE0?e=Gg49Yc" target="_blank">
-    <img src="https://img.shields.io/badge/ACESSO_AO_DRIVE-CLIQUE_AQUI-7b1fa2?style=for-the-badge&logo=csharp&logoColor=white" height="50">
+    <img src="https://img.shields.io/badge/ACESSO_AO_DRIVE-CLIQUE_AQUI-7b1fa2?style=for-the-badge&logo=csharp&logoColor=white" height="100">
   </a>
 </div>
 
