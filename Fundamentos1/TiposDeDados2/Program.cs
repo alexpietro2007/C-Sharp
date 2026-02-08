@@ -38,9 +38,9 @@ Console.WriteLine("Comparando a precisão de Float, Double e Decimal");
 Console.WriteLine("------------------------------");
 Console.WriteLine("Precisão de cada Tipo Decimal:");
 Console.WriteLine("");
-Console.WriteLine("Valor de Precisão do Float: " + x);
-Console.WriteLine("Valor de Precisão do Double: " + y);
-Console.WriteLine("Valor de Precisão do Decimal: " + z);
+Console.WriteLine("Valor de Precisão do Float 15 a 17 digitos: " + x);
+Console.WriteLine("Valor de Precisão do Double 7 digitos: " + y);
+Console.WriteLine("Valor de Precisão do Decimal 28 a 29 digitos: " + z);
 Console.WriteLine("------------------------------");
 
 Console.ReadLine();
