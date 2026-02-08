@@ -1,0 +1,15 @@
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDateTime1\bin\Debug\net10.0\TipoDateTime1.exe
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDateTime1\bin\Debug\net10.0\TipoDateTime1.deps.json
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDateTime1\bin\Debug\net10.0\TipoDateTime1.runtimeconfig.json
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDateTime1\bin\Debug\net10.0\TipoDateTime1.dll
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDateTime1\bin\Debug\net10.0\TipoDateTime1.pdb
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDateTime1\obj\Debug\net10.0\TipoDateTime1.GeneratedMSBuildEditorConfig.editorconfig
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDateTime1\obj\Debug\net10.0\TipoDateTime1.AssemblyInfoInputs.cache
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDateTime1\obj\Debug\net10.0\TipoDateTime1.AssemblyInfo.cs
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDateTime1\obj\Debug\net10.0\TipoDateTime1.csproj.CoreCompileInputs.cache
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDateTime1\obj\Debug\net10.0\TipoDateTime1.sourcelink.json
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDateTime1\obj\Debug\net10.0\TipoDateTime1.dll
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDateTime1\obj\Debug\net10.0\refint\TipoDateTime1.dll
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDateTime1\obj\Debug\net10.0\TipoDateTime1.pdb
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDateTime1\obj\Debug\net10.0\TipoDateTime1.genruntimeconfig.cache
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDateTime1\obj\Debug\net10.0\ref\TipoDateTime1.dll

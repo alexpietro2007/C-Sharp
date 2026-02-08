@@ -1,0 +1,15 @@
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDeDados2\obj\Debug\net10.0\TipoDeDados2.GeneratedMSBuildEditorConfig.editorconfig
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDeDados2\obj\Debug\net10.0\TipoDeDados2.AssemblyInfoInputs.cache
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDeDados2\obj\Debug\net10.0\TipoDeDados2.AssemblyInfo.cs
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDeDados2\obj\Debug\net10.0\TipoDeDados2.csproj.CoreCompileInputs.cache
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDeDados2\obj\Debug\net10.0\TipoDeDados2.sourcelink.json
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDeDados2\bin\Debug\net10.0\TipoDeDados2.exe
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDeDados2\bin\Debug\net10.0\TipoDeDados2.deps.json
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDeDados2\bin\Debug\net10.0\TipoDeDados2.runtimeconfig.json
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDeDados2\bin\Debug\net10.0\TipoDeDados2.dll
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDeDados2\bin\Debug\net10.0\TipoDeDados2.pdb
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDeDados2\obj\Debug\net10.0\TipoDeDados2.dll
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDeDados2\obj\Debug\net10.0\refint\TipoDeDados2.dll
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDeDados2\obj\Debug\net10.0\TipoDeDados2.pdb
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDeDados2\obj\Debug\net10.0\TipoDeDados2.genruntimeconfig.cache
+d:\Alex\Curso\CSharp Com IA\Fundamentos1\TipoDeDados2\obj\Debug\net10.0\ref\TipoDeDados2.dll
