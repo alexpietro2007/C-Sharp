@@ -21,13 +21,8 @@ Repositório dedicado ao estudo de C# integrado com inteligência artificial e f
 │   ├── 📁 TiposDeDados4/            # Tipagem e variáveis - Parte 4
 │   └── 📑 CSFundametos1.slnx
 │
-├── 📊 LINQ_pptx_Udemy/             # Materiais de apoio (Slides)
-│   ├── 📝 vda_qua_linq1.pptx
-│   ├── 📝 vda_qua_linq2.pptx
-│   ├── 📝 vda_qua_linq3.pptx
-│   ├── 📝 vda_qua_linq4.pptx
-│   ├── 📝 vda_qua_linq5.pptx
-│   └── 📝 vda_qua_linq6.pptx
+├── Materias De suporte Estão Disponiveis Em: (![Download](https://1drv.ms/f/c/2cd73bb381f2b5b7/IgDpfJbxFkf1T42x-_RGAaUxAXA6PGIoBln5e-SEuHWQgE0?e=Gg49Yc))
+├── obs: a senha é: eu gosto de c#
 │
 ├── ⚙️ .gitignore                    # Arquivos ignorados pelo Git
 └── 📄 readme.json                  # Metadados do projeto
