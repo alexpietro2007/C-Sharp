@@ -20,6 +20,7 @@ Repositório dedicado ao estudo de C# integrado com inteligência artificial e f
 │
 ├── ⚙️ .gitignore                    # Filtro de arquivos do Git
 └── 📝 readme.md                    # Documentação principal
+```
 📥 Materiais de Suporte (Drive)
 Acesse os materiais pesados e slides através do botão personalizado abaixo:
 
