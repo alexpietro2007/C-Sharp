@@ -24,6 +24,6 @@ Repositório dedicado ao estudo de C# integrado com inteligência artificial e f
 📥 Materiais de Suporte (Drive)
 Acesse os materiais pesados e slides através do botão personalizado abaixo:
 
-<a href="https://1drv.ms/f/c/2cd73bb381f2b5b7/IgDpfJbxFkf1T42x-_RGAaUxAXA6PGIoBln5e-SEuHWQgE0?e=Gg49Yc" target="_blank"> <hr> <img src="https://raw.githubusercontent.com/alexpietro2007/Imagens/refs/heads/main/Csharp_Logo.png" width="30" vertical-align="middle"> <b>CLIQUE AQUI PARA ACESSAR OS MATERIAIS NO DRIVE</b> <hr> </a>
+<a href="https://1drv.ms/f/c/2cd73bb381f2b5b7/IgDpfJbxFkf1T42x-_RGAaUxAXA6PGIoBln5e-SEuHWQgE0?e=Gg49Yc" target="_blank"> <hr> <img src="https://raw.githubusercontent.com/alexpietro2007/Imagens/refs/heads/main/Csharp_Logo.png" width="100" vertical-align="middle"> <b>CLIQUE AQUI PARA ACESSAR OS MATERIAIS NO DRIVE</b> <hr> </a>
 
 [!IMPORTANT] 🔑 Senha para extração: eu gosto de c#
