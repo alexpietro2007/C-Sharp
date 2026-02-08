@@ -6,20 +6,39 @@ Repositório dedicado ao estudo de C# integrado com inteligência artificial e f
 
 ### 📂 Estrutura do Projeto
 
-```text
-.
-├── 🟢 Aula1/                       # Introdução e primeiros passos
-│   ├── 📁 primeiraCriacaoVSCode/    # Setup inicial no VS Code
-│   └── 📑 Aula1.slnx
-│
-├── 🧱 Fundamentos1/                # Core da linguagem C#
-│   ├── 📁 TipoDateTime1/           # Manipulação de Datas e Horas
-│   ├── 📁 TiposDeDados[1-4]/        # Tipagem Estática e Variáveis
-│   ├── 📁 TiposNullables1/          # Lidando com valores nulos
-│   └── 📑 CSFundametos1.slnx
-│
-├── ⚙️ .gitignore                    # Filtro de arquivos do Git
-└── 📝 readme.md                    # Documentação principal
+```
+├── 📁 Aula1
+│   ├── 📁 primeiraCriacaoVSCode
+│   │   ├── 📄 Program.cs
+│   │   └── 📄 primeiraCriacaoVSCode.csproj
+│   └── 📄 Aula1.slnx
+├── 📁 Fundamentos1
+│   ├── 📁 Exercicios1
+│   │   ├── 📄 Exercicios1.csproj
+│   │   └── 📄 Program.cs
+│   ├── 📁 Indentificadores1
+│   │   ├── 📄 Indentificadores1.csproj
+│   │   └── 📄 Program.cs
+│   ├── 📁 TipoDateTime1
+│   │   ├── 📄 Program.cs
+│   │   └── 📄 TipoDateTime1.csproj
+│   ├── 📁 TiposDeDados1
+│   │   ├── 📄 Program.cs
+│   │   └── 📄 TiposDeDados1.csproj
+│   ├── 📁 TiposDeDados2
+│   │   ├── 📄 Program.cs
+│   │   └── 📄 TiposDeDados2.csproj
+│   ├── 📁 TiposDeDados3
+│   │   ├── 📄 Program.cs
+│   │   └── 📄 TiposDeDados3.csproj
+│   ├── 📁 TiposDeDados4
+│   │   ├── 📄 Program.cs
+│   │   └── 📄 TiposDeDados4.csproj
+│   ├── 📁 TiposNullables1
+│   │   ├── 📄 Program.cs
+│   │   └── 📄 TiposNullables1.csproj
+│   └── 📄 CSFundametos1.slnx
+└── 📝 readme.md
 ```
 ### 📥 Materiais de Suporte (Drive)
 
